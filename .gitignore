@@ -1,0 +1,27 @@
+﻿# Datos
+Liver_GSE14520_U133A.csv
+*.csv
+
+# Checkpoints de modelos
+checkpoints/
+
+# Logs (TensorBoard, entrenamiento, etc.)
+logs/
+
+# Weights & Biases
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
